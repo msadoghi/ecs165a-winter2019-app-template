@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>9EB03275-64CF-41D5-BE39-AFB38B7D0DE8</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9EB03275-64CF-41D5-BE39-AFB38B7D0DE8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram_iOS_Firebase project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram_iOS_Firebase</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Instagram_iOS_Firebase with scheme Instagram_iOS_Firebase and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>570230815.265414</real>
+			<key>timeStoppedRecording</key>
+			<real>570230821.15441298</real>
+			<key>title</key>
+			<string>Building project Instagram_iOS_Firebase with scheme Instagram_iOS_Firebase and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>9EB03275-64CF-41D5-BE39-AFB38B7D0DE8</string>
+		</dict>
+		<key>E8C205CF-2074-4924-A6FD-72C713B66EE3</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E8C205CF-2074-4924-A6FD-72C713B66EE3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Instagram_iOS_Firebase project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Instagram_iOS_Firebase</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Instagram_iOS_Firebase with scheme Instagram_iOS_Firebase and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>570241390.65702105</real>
+			<key>timeStoppedRecording</key>
+			<real>570241394.49878502</real>
+			<key>title</key>
+			<string>Building project Instagram_iOS_Firebase with scheme Instagram_iOS_Firebase and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>E8C205CF-2074-4924-A6FD-72C713B66EE3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

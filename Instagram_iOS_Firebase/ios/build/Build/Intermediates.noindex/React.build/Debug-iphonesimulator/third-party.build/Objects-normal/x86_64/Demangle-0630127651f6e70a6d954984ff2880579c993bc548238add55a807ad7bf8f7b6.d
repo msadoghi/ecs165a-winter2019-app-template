@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/sarmishta/Desktop/React-Native-Firebase-iOS/Instagram_iOS_Firebase/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h
